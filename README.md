@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shubham Patil</h1>
 <div align-"center"> <img src-"https://github.com/shubhampatil9500/shubhampatil9500/blob/main/banner.png"> </div>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="center">A passionate Devops Engineer with 3 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatil9500&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatil9500" /> </p>
